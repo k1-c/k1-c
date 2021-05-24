@@ -19,6 +19,8 @@
 - JavaScript
   - express, jQuery, Vue.js / Nuxt.js / React.js / Next.js
 - TypeScript
+- Dart
+  - Flutter
 - SQL
 - NoSQL（Firestore / Mongo DB / AWS DocumentDB）
 - VBA / VB Script
