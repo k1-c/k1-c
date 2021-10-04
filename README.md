@@ -2,6 +2,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shunk-py&show_icons=true&theme=dark&hide=stars&count_private=true)](https://github.com/shunk-py)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 📚 Language / Framework :books:
 - Python
   - Web Framework (Django / Flask / Falcon / FastAPI)
