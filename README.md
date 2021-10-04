@@ -1,8 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunk-py&theme=dark&layout=compact)](https://github.com/shunk-py)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shunk-py&show_icons=true&theme=dark&hide=stars&count_private=true)](https://github.com/shunk-py)
+![trophy](https://github-readme-stats.vercel.app/api?username=shunk-py&show_icons=true&theme=dark&count_private=true&line_height=40)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shunk-py&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true)](https://github.com/shunk-py)
 
 
 ## 📚 Language / Framework :books:
