@@ -46,5 +46,6 @@
 - Scrum
   - Scrum Inc. LSM
   - Scrum Inc. LSPO
+  - Scrum Alliance CSM
 - Web Frontend
   - Nuxt.js
