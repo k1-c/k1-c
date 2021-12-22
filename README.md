@@ -32,13 +32,7 @@
 - Google Apps Script (GAS)
   - Environment: Clasp + Git + TypeScript
 - AWS
-  - EC2
-  - ECS
-  - Lambda
   - Elastic Beanstalk
-  - CloudFront
-  - CloudFront Functions
-  - RDS (Aurora / Aurora Serverless)
   - Amplify
   - AWS CLI / SDK / CDK
 
