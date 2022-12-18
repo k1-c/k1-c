@@ -10,6 +10,8 @@ See details about me at the website below:
 
 Feel free contact me at [Twitter](https://twitter.com/kc_1_/) or the website above!
 
+## GitHub Activities
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunk-py&theme=dark&layout=compact)](https://github.com/shunk-py)
 
 ![trophy](https://github-readme-stats.vercel.app/api?username=shunk-py&show_icons=true&theme=dark&count_private=true&line_height=40)
