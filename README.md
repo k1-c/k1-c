@@ -1,6 +1,4 @@
-# ![Welcome!](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91e.png)
-
-I am a 'product' developer working in Tokyo, Japan.
+# ![a](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f910.png)![b](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91f.png)![c](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f919.png)
 
 See details about me at the website below:
 
