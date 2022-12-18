@@ -1,4 +1,4 @@
-# ![a](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f910.png)![b](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91f.png)![c](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f919.png)
+# ![a](https://twemoji.maxcdn.com/v/14.0.0/72x72/1fA10.png)![b](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91f.png)![c](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f919.png)
 
 See details about me at the website below:
 
