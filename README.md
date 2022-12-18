@@ -1,4 +1,4 @@
-# [Welcome!](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f44b.png) Welcome!
+# ![Welcome!](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91e.png) Welcome!
 
 I am a 'product' developer working in Tokyo, Japan.
 
