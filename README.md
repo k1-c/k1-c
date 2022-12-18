@@ -8,7 +8,7 @@ See details about me at the website below:
 
 ## Contact
 
-Feel free contact me at [Twitter](https://twitter.com/kc_1_/) or the website above!
+Feel free contact me at [Twitter](https://twitter.com/kc_1_/) or the website!
 
 ## GitHub Activities
 
