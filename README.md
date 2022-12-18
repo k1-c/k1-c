@@ -1,8 +1,14 @@
 # ![a](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91e.png)![b](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91f.png)![c](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f919.png)
 
+## About me
+
 See details about me at the website below:
 
 :construction: [WIP] :construction:
+
+## Contact
+
+Feel free contact me at [Twitter](https://twitter.com/kc_1_/) or the website above!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunk-py&theme=dark&layout=compact)](https://github.com/shunk-py)
 
