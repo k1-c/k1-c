@@ -1,8 +1,9 @@
-# ![Welcome!](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91e.png) Welcome!
+# ![Welcome!](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91e.png)
 
 I am a 'product' developer working in Tokyo, Japan.
 
 See details about me at the website below:
+
 :construction: [WIP] :construction:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunk-py&theme=dark&layout=compact)](https://github.com/shunk-py)
