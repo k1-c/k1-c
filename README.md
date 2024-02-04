@@ -1,4 +1,4 @@
-# ![a](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91e.png)![b](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f91f.png)![c](https://twemoji.maxcdn.com/v/14.0.0/72x72/1f919.png)
+# k1-c
 
 ## About me
 
