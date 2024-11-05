@@ -2,7 +2,7 @@
 
 ## About me
 
-:construction: [On construction] :construction:
+:construction: [on construction] :construction:
 
 ## Contact
 
