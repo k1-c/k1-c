@@ -2,13 +2,11 @@
 
 ## About me
 
-See details about me at the website below:
-
-:construction: [WIP] :construction:
+:construction: [On construction] :construction:
 
 ## Contact
 
-Feel free contact me at [Twitter](https://twitter.com/kc_1_/) or the website!
+DM: [https://x.com/k1_c_](https://x.com/k1_c_/)
 
 ## GitHub Activities
 
