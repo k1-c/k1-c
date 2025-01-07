@@ -18,6 +18,8 @@ Please don't wake me up. 🐻❄️
 
 DM: [https://x.com/k1_c_](https://x.com/k1_c_/)
 
+※ Being chill about me not replying - 返さなくても怒らないで
+
 ## GitHub Activities
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1-c&theme=dark&layout=compact)](https://github.com/k1-c)
