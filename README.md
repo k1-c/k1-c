@@ -2,7 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/6e9ae511-6a19-41bc-a613-f4103e5ca554)
 
-
 I'm hibernating for the winter. <br />
 If I don't reply or respond slowly, please don't get mad — in the winter. and it's my weakness to respond slowly.<br />
 Please don't wake me up. 🐻❄️
@@ -10,6 +9,7 @@ Please don't wake me up. 🐻❄️
 冬なので冬眠しています。<br />
 連絡を返さなかったり遅いことがありますが冬だしレスポンスが苦手なので怒らないでください。<br />
 起こさないでください。
+
 ## About me
 
 :construction: [on construction] :construction:
