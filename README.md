@@ -1,5 +1,9 @@
 # k1-c
 
+冬なので冬眠しています。<br />
+連絡を返さなかったり遅いことがありますが冬だしレスポンスが苦手なのでご容赦ください。<br />
+起こさないでください。
+
 ## About me
 
 :construction: [on construction] :construction:
