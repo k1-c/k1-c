@@ -8,12 +8,6 @@ Hi, I'm a Software Designer
 
 :construction: [on construction] :construction:
 
-## Contact
-
-DM: [https://x.com/k1_c_](https://x.com/k1_c_/)
-
-※ Being chill about me not replying
-
 ## GitHub Activities
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1-c&theme=dark&layout=compact)](https://github.com/k1-c)
